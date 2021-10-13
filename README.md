@@ -21,4 +21,4 @@
 |paper|summary|
 |-|-|
 |[M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis](https://arxiv.org/pdf/2107.08264.pdf)|[link](/VIS2021/m2lens.md)|
-
+|[Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models](https://arxiv.org/pdf/2108.03738.pdf)|[link(TBD)](/VIS2021/conceptExtract.md)|
